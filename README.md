@@ -9,10 +9,12 @@ Packages used:
 
                pip install pyautogui
                
-             
+               pip install comtype
                
-Application Execution Procedure: In the header folder, you can edit or design your own header. Keep in mind that the icons you design must line up with the codes in their placements. The hue can be be altered however you wish, a camera is a requirement. If the camera isn't operating, alter cap = cv2.VideoCapture(0) to cap = cv2.VideoCapture(1).  
+               pip install mediapipe             
+               
+Application Execution Procedure: It substitutes the function of your actual mouse through the used of fingers; index down (click), close hand (drag), index and middle finger up and the rest fingers down then middle finger down (right click), pinch (scroll). If the camera isn't operating, alter cap = cv2.VideoCapture(0) to cap = cv2.VideoCapture(1).  
 
-Reference: https://bit.ly/3Pz4V7T 
+Reference: https://bit.ly/3TqzYpB
 
-               python VirtualPainter.py
+               python VirtMouse.py
