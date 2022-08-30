@@ -1,5 +1,4 @@
 # VirtualMouse
-# Virtual Painter
 Python Version: 
                
                Python 3.10.5
